@@ -1,0 +1,15 @@
+
+.app{
+    border: 1px solid greenyellow;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    display: flex;
+    border-radius: 10px;
+    margin-top: 10px;
+    
+}
+.ap{
+    display: inline-block;
+    
+}
